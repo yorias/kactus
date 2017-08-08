@@ -1,0 +1,59 @@
+{
+  "_class": "group",
+  "do_objectID": "1B4ACCFE-55EC-4D33-98C9-6AE7151F933C",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 48,
+    "width": 216,
+    "x": 180,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "8BE8DBA0-2D85-4FC4-8CF6-E607C8BF9E5D"
+    },
+    {
+      "class": "text",
+      "id": "E25A6328-8CEB-48DB-9F7F-EFF3671E5372"
+    },
+    {
+      "class": "group",
+      "id": "7BADAB77-7AE3-448C-8159-6F6CEA7399D5"
+    }
+  ],
+  "name": "Flash message - error",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

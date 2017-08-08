@@ -1,0 +1,71 @@
+{
+  "_class": "group",
+  "do_objectID": "BFE0DCDE-B78C-425C-B6E5-177DC056B299",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 684,
+    "width": 955,
+    "x": 35,
+    "y": 38
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": true,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "text",
+      "id": "33FE5F2F-3AB6-4EBA-9D5C-6EE3BB44CD5A"
+    },
+    {
+      "class": "text",
+      "id": "C1381B58-DAEB-4F80-AD2F-16BD43031898"
+    },
+    {
+      "class": "text",
+      "id": "4A353265-5D86-4E0A-9AF7-6D6B24A035A2"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "01FDE612-76DB-4A43-B8E5-6642B0177FEE"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "509DE4B7-DBE0-4490-BAE2-64668CF55939"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "DD5E2624-5A20-487C-B275-B26CF0D65A12"
+    }
+  ],
+  "name": "Labels",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

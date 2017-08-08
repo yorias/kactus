@@ -1,0 +1,61 @@
+{
+  "_class": "group",
+  "do_objectID": "496C7043-D135-4BB1-AA1E-C06B2E63D300",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 36,
+    "width": 75,
+    "x": 348,
+    "y": 125
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "E528EF4F-D34B-434E-890F-018698F75686"
+    },
+    {
+      "class": "text",
+      "id": "ACB31296-3A33-4B34-9BBD-0EC18EAA44D0"
+    }
+  ],
+  "name": "Button outline - hover",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    },
+    "com.invisionlabs.library": {
+      "original-layer": {
+        "originalID": "608A6D8C-BFF1-4421-9E63-D55D41BDDD89",
+        "version": 1
+      }
+    }
+  }
+}

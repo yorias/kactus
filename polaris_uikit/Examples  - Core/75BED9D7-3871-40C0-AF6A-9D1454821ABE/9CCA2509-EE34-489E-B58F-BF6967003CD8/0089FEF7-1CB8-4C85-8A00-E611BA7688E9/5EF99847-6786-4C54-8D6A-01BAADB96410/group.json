@@ -1,0 +1,67 @@
+{
+  "_class": "group",
+  "do_objectID": "5EF99847-6786-4C54-8D6A-01BAADB96410",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 58,
+    "width": 657,
+    "x": 0,
+    "y": 439
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "26556078-96DD-4C44-946C-1722AC041514"
+    },
+    {
+      "class": "group",
+      "id": "A4BD4633-3BC1-490D-9B77-7F016B8E1F55"
+    },
+    {
+      "class": "text",
+      "id": "1D93E5FA-CD9C-4444-9296-57E4E759CB33"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "AE473765-B97B-4BCB-A39A-AF505B19B9BC"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "36E58C98-369F-4C18-9470-B5FA56E4E75F"
+    }
+  ],
+  "name": "Accept payment",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

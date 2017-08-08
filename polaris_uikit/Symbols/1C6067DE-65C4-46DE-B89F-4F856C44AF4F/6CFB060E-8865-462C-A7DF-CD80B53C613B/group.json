@@ -1,0 +1,67 @@
+{
+  "_class": "group",
+  "do_objectID": "6CFB060E-8865-462C-A7DF-CD80B53C613B",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 143,
+    "width": 997.9999999999993,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "1E166C34-8785-47A8-87D6-9AAC336AC8F8"
+    },
+    {
+      "class": "text",
+      "id": "643E62CE-96FA-44AF-898C-C605F096455A"
+    },
+    {
+      "class": "text",
+      "id": "035ECA29-1D86-4EB1-8827-E02DC7CC7F1C"
+    },
+    {
+      "class": "group",
+      "id": "B32BCB72-65C9-4E2F-A4D1-C9D39516F940"
+    },
+    {
+      "class": "group",
+      "id": "4C7751C4-EC06-4851-8879-25B9F7CD4A8D"
+    }
+  ],
+  "name": "Banner - Warning",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

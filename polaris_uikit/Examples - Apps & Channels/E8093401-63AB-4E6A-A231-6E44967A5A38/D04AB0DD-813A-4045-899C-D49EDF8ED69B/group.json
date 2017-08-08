@@ -1,0 +1,63 @@
+{
+  "_class": "group",
+  "do_objectID": "D04AB0DD-813A-4045-899C-D49EDF8ED69B",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 67,
+    "width": 744,
+    "x": 260,
+    "y": 203
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "2BCCF1A9-9779-40FB-BA6E-68572D3483CC"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "83C00EE8-1AE0-4A1B-BD1F-1CA0F3C119C4"
+    },
+    {
+      "class": "text",
+      "id": "55C8C04B-1FD1-4BC6-BBE3-2BB799419F43"
+    },
+    {
+      "class": "group",
+      "id": "E5704DE2-4FDE-4D7A-A35E-4CA1C88D19DA"
+    }
+  ],
+  "name": "Banner - Default",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

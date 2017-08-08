@@ -1,0 +1,61 @@
+{
+  "_class": "group",
+  "do_objectID": "3BB03CA9-2B4A-488F-A6BD-D8157F6459EE",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 36,
+    "width": 74,
+    "x": 0,
+    "y": 120
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "69CF3169-F006-4971-978F-E516635C7464"
+    },
+    {
+      "class": "text",
+      "id": "EEB428B4-1A76-4FB1-A54D-83E3C4AB80F0"
+    }
+  ],
+  "name": "Button outline - active",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    },
+    "com.invisionlabs.library": {
+      "original-layer": {
+        "originalID": "D5889B06-C663-4447-AD17-D2D44D937C90",
+        "version": 1
+      }
+    }
+  }
+}

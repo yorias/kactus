@@ -1,0 +1,79 @@
+{
+  "_class": "group",
+  "do_objectID": "DAC8FD34-D369-41AF-B7F9-37D73A91B5B6",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 293,
+    "width": 781,
+    "x": 37,
+    "y": 460
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "E80436B0-7D20-4CDA-853F-F5621A996C47"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "1B6BB23C-EC52-48F2-AFB5-2AEA459891E6"
+    },
+    {
+      "class": "text",
+      "id": "86B7FF52-0199-4880-9065-46DBD8DE383C"
+    },
+    {
+      "class": "text",
+      "id": "3F26C381-D0E7-4ACE-97E5-6F5A5EE1A759"
+    },
+    {
+      "class": "text",
+      "id": "7E74B132-A479-4721-9E60-875C23319A1B"
+    },
+    {
+      "class": "text",
+      "id": "89331D02-8BB8-4323-A4C9-04967F84AD99"
+    },
+    {
+      "class": "text",
+      "id": "A61761E5-37A8-49C6-9ED8-7307E3E33299"
+    },
+    {
+      "class": "group",
+      "id": "DB945C73-BA95-49FB-B198-ED3ED3064CB5"
+    }
+  ],
+  "name": "Card - segment",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

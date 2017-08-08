@@ -1,0 +1,71 @@
+{
+  "_class": "group",
+  "do_objectID": "E18DA229-305A-40A2-BC59-1C7AD970DC11",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 220,
+    "width": 752,
+    "x": 257,
+    "y": 1290
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "D0509A38-A943-4FF9-A103-D2335FB8CB4B"
+    },
+    {
+      "class": "group",
+      "id": "6B2BBCB8-0603-4D10-9898-96C38B55CFD0"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "34568ED0-3269-4E22-9D50-F19C527A23F4"
+    },
+    {
+      "class": "text",
+      "id": "3847DA6F-67FA-4A85-9A3E-B47492A59ECA"
+    },
+    {
+      "class": "text",
+      "id": "B300E807-57FA-4DEC-8688-ABE7D8EC92CC"
+    },
+    {
+      "class": "text",
+      "id": "F1A3B34A-532E-4BD5-9F80-4E33818F43DB"
+    }
+  ],
+  "name": "Add to cart section",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

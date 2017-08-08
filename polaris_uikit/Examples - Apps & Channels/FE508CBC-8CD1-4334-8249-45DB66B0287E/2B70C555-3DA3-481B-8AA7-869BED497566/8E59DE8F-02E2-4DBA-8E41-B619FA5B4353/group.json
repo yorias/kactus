@@ -1,0 +1,71 @@
+{
+  "_class": "group",
+  "do_objectID": "8E59DE8F-02E2-4DBA-8E41-B619FA5B4353",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 194,
+    "width": 746,
+    "x": 0,
+    "y": 100
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "3BDFECAC-A2D3-4820-808B-3FE756D0D9DA"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "2F5ED721-1464-4130-A729-A83898AC6992"
+    },
+    {
+      "class": "text",
+      "id": "105F57DB-C53D-4384-BFB7-A57A0AEA86FE"
+    },
+    {
+      "class": "text",
+      "id": "8F14E961-2177-46CA-936A-9FBEBB3FDE7B"
+    },
+    {
+      "class": "text",
+      "id": "6708AD79-8374-4140-96CD-0C04EF97C533"
+    },
+    {
+      "class": "text",
+      "id": "64FE331A-A98B-479F-BDFE-C57E67502DA3"
+    }
+  ],
+  "name": "Commission / info card",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

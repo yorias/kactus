@@ -1,0 +1,65 @@
+{
+  "_class": "group",
+  "do_objectID": "DDBE5D5B-75BB-485E-820C-7579368B487F",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 292,
+    "width": 596,
+    "x": 25,
+    "y": 103
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "EF913EF0-A7E7-4F12-8594-14B3A43229D4"
+    },
+    {
+      "class": "group",
+      "id": "09EAAA33-1BBD-4B72-99E1-BC931357F769"
+    },
+    {
+      "class": "group",
+      "id": "7BEE2735-2C01-416C-AC81-6A6DB8021943"
+    }
+  ],
+  "name": "Date field popover",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    },
+    "com.invisionlabs.library": {
+      "original-layer": {
+        "originalID": "58C5E273-C1FD-4779-9538-C4016E3169E0",
+        "version": 1
+      }
+    }
+  }
+}

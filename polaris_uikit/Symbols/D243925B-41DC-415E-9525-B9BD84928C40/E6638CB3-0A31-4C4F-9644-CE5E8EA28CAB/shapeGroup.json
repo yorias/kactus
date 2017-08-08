@@ -1,0 +1,96 @@
+{
+  "_class": "shapeGroup",
+  "clippingMaskMode": 0,
+  "do_objectID": "E6638CB3-0A31-4C4F-9644-CE5E8EA28CAB",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 20,
+    "width": 20,
+    "x": 14,
+    "y": 14
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "518FFF53-7888-42E3-AA93-CB961921158A"
+    },
+    {
+      "class": "shapePath",
+      "id": "1D186CB2-4C9E-4CE5-9ABE-D58FD2DA9F92"
+    },
+    {
+      "class": "shapePath",
+      "id": "F712AB4E-7E50-4C4C-817F-E0AE0B9D9372"
+    },
+    {
+      "class": "shapePath",
+      "id": "B6807670-D424-40F4-883E-2E416B597805"
+    },
+    {
+      "class": "shapePath",
+      "id": "A4B12ECB-CE60-4811-A74C-5F9C42586482"
+    },
+    {
+      "class": "shapePath",
+      "id": "0B06E4E9-129A-43CC-A1EA-5B13C23473D6"
+    },
+    {
+      "class": "shapePath",
+      "id": "A797015A-423D-442F-8154-B0CCD6582550"
+    }
+  ],
+  "name": "Icon",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 1,
+          "green": 1,
+          "red": 1
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "windingRule": 1
+}

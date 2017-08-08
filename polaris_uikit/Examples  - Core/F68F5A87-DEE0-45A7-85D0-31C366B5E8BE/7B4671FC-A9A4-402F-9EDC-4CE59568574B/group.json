@@ -1,0 +1,65 @@
+{
+  "_class": "group",
+  "do_objectID": "7B4671FC-A9A4-402F-9EDC-4CE59568574B",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 36,
+    "width": 100,
+    "x": 17,
+    "y": 174
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "06BE4DC4-F66D-4E51-8372-1AC0A2114F52"
+    },
+    {
+      "class": "text",
+      "id": "58596E9D-24CA-4842-9D8F-025DF548F647"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "08B5E053-1AF5-4C77-A54E-2A2926D01AF9"
+    }
+  ],
+  "name": "Button default - icon",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    },
+    "com.invisionlabs.library": {
+      "original-layer": {
+        "originalID": "544DDC51-F93C-4DC2-A51C-D9A37D961551",
+        "version": 1
+      }
+    }
+  }
+}

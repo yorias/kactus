@@ -1,0 +1,71 @@
+{
+  "_class": "group",
+  "do_objectID": "8587E775-6798-4E76-BDA1-BFE942AA842D",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 188,
+    "width": 724,
+    "x": 270,
+    "y": 368
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "92935603-D0DA-4113-9E21-52A6EBC53468"
+    },
+    {
+      "class": "group",
+      "id": "C61BB0A0-10F3-4221-866A-EF73D7EB348C"
+    },
+    {
+      "class": "group",
+      "id": "E6B70E10-D036-4C54-AA3E-9EE42E8A7E5B"
+    },
+    {
+      "class": "group",
+      "id": "CCDACF98-F9B6-43FF-B65C-325962B130FC"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "B0D6FC0B-60A5-4C4D-91CB-C5D6AF0E2958"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "EB8D184E-1536-49AF-A519-000D2E30022D"
+    }
+  ],
+  "name": "Highlighted orders",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

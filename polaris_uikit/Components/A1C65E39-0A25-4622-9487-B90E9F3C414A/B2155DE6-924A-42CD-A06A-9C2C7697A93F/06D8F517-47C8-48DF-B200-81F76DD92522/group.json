@@ -1,0 +1,57 @@
+{
+  "_class": "group",
+  "do_objectID": "06D8F517-47C8-48DF-B200-81F76DD92522",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 36,
+    "width": 22,
+    "x": 57,
+    "y": 24
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "81A5176A-2D7E-4DA9-9959-6AD1F602A934"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "C5B3C626-4007-496B-88EE-596614075656"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "A1BDDC1A-0451-4A62-A918-D439849B36C0"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "6F9716B5-ACD3-44FF-86FB-F9558F3600E2"
+    }
+  ],
+  "name": "stepper",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

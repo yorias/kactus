@@ -1,0 +1,71 @@
+{
+  "_class": "group",
+  "do_objectID": "2ED5DC47-ECD7-4872-B1EF-D1D2A7F1BD44",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 203,
+    "width": 229,
+    "x": 0,
+    "y": 13
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "D9402319-013E-419D-BFDB-DD82F394358C"
+    },
+    {
+      "class": "group",
+      "id": "02CD6358-88F2-4411-876D-D8851516187E"
+    },
+    {
+      "class": "group",
+      "id": "C46E995C-6C51-4D1C-877E-D211C1A27EEC"
+    },
+    {
+      "class": "group",
+      "id": "8DA1E330-2D0F-4340-8D44-D15954A842E3"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "F9FA4290-FA7C-4A68-A946-2FADEBAEB9E2"
+    },
+    {
+      "class": "group",
+      "id": "B409D59C-5380-4642-8665-E586A4678AE9"
+    }
+  ],
+  "name": "Popover Scroll",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

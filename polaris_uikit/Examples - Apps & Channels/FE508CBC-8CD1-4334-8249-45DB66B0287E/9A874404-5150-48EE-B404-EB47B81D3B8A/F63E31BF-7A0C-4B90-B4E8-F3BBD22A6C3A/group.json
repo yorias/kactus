@@ -1,0 +1,59 @@
+{
+  "_class": "group",
+  "do_objectID": "F63E31BF-7A0C-4B90-B4E8-F3BBD22A6C3A",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 95,
+    "width": 742,
+    "x": 4,
+    "y": 72
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "1D313A33-005B-4B80-9204-9C5110AB293D"
+    },
+    {
+      "class": "text",
+      "id": "F0057B77-3D65-4FA2-B054-6F8CAC73EFCC"
+    },
+    {
+      "class": "text",
+      "id": "2F634FF5-0CFF-4241-9050-57DD61A02EF2"
+    }
+  ],
+  "name": "Publishing / status card",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

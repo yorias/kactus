@@ -1,0 +1,67 @@
+{
+  "_class": "group",
+  "do_objectID": "F26F1C41-9710-41C3-AAFA-9FD45777DF04",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 56,
+    "width": 1440,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "BA2DF7ED-65D0-4716-99EB-8EA44D163545"
+    },
+    {
+      "class": "group",
+      "id": "A264F3C2-77F6-44A1-BBE2-B33240C42314"
+    },
+    {
+      "class": "group",
+      "id": "44E739D6-78D4-46F7-A678-2B15FD52FB37"
+    },
+    {
+      "class": "text",
+      "id": "58DEB2A3-36D8-46A8-90FC-428D932B3F29"
+    },
+    {
+      "class": "group",
+      "id": "2EA4ED45-A78B-4692-B554-5006701F302A"
+    }
+  ],
+  "name": "Contextual Action Bar",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

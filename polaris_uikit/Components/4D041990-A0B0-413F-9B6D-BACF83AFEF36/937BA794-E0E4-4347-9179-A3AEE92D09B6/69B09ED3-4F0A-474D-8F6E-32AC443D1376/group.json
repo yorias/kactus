@@ -1,0 +1,58 @@
+{
+  "_class": "group",
+  "do_objectID": "69B09ED3-4F0A-474D-8F6E-32AC443D1376",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 36,
+    "width": 72,
+    "x": 0,
+    "y": 180
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "E0D6F84C-EA9D-4104-AD0C-4D9E20978E1C"
+    },
+    {
+      "class": "text",
+      "id": "773FADB1-912E-46BA-B527-B79EBE0BBBB5"
+    }
+  ],
+  "name": "Button outline - focus",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "sharedObjectID": "4B528287-CE94-4879-94DC-7973F2EED748"
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    },
+    "com.invisionlabs.library": {
+      "original-layer": {
+        "originalID": "D5889B06-C663-4447-AD17-D2D44D937C90",
+        "version": 1
+      }
+    }
+  }
+}

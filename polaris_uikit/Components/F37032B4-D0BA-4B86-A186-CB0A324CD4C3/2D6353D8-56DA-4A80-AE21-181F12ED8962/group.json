@@ -1,0 +1,63 @@
+{
+  "_class": "group",
+  "do_objectID": "2D6353D8-56DA-4A80-AE21-181F12ED8962",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 220,
+    "width": 320,
+    "x": 36,
+    "y": 36
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "4A83802F-758A-42F6-B4D2-BDBA7EADEB40"
+    },
+    {
+      "class": "text",
+      "id": "AA96A4C1-DF07-4A47-9835-BA33C8C8E62F"
+    },
+    {
+      "class": "text",
+      "id": "BA754460-E08A-4DAC-BD12-AA3EB920882F"
+    },
+    {
+      "class": "group",
+      "id": "5C7354CC-92F1-4953-B3B0-52BCBE7DA775"
+    }
+  ],
+  "name": "Connect",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

@@ -1,0 +1,71 @@
+{
+  "_class": "group",
+  "do_objectID": "0342C813-1F7A-480A-9AA2-39B068CB64FC",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 163,
+    "width": 998,
+    "x": 36,
+    "y": 568
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "879838E7-BDA2-485E-A804-780B4B946B0F"
+    },
+    {
+      "class": "text",
+      "id": "23CCCFA1-4920-4F2A-9E29-586AF89BFEC8"
+    },
+    {
+      "class": "text",
+      "id": "3204EEE7-41F1-4509-8C20-7566F37BFF9A"
+    },
+    {
+      "class": "text",
+      "id": "CE391388-02D3-40C2-8A94-5ABE7550A250"
+    },
+    {
+      "class": "group",
+      "id": "DAEE2AA2-8F02-4AD6-9805-76D7119EB553"
+    },
+    {
+      "class": "group",
+      "id": "D7FBAF35-8FC7-45A8-B0CF-AFFAD0E0E210"
+    }
+  ],
+  "name": "Banner - Secondary action",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

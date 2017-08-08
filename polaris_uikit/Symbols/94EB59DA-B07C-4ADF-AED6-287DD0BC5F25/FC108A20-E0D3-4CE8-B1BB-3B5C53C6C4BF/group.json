@@ -1,0 +1,71 @@
+{
+  "_class": "group",
+  "do_objectID": "FC108A20-E0D3-4CE8-B1BB-3B5C53C6C4BF",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 56,
+    "width": 784,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "238FCD55-A545-4964-A399-7A48423FCD55"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "2EFEA093-0EE0-411C-A867-7FC42678B804"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "C7D1F01C-90B7-4AC0-ABCB-F333EE84EA45"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "F779A878-A2CF-425E-916E-6E2E13C1A02F"
+    },
+    {
+      "class": "text",
+      "id": "CF463CAA-B0F3-43EC-BB37-408A5E950891"
+    },
+    {
+      "class": "text",
+      "id": "9FDFA253-EF33-4ABD-A9F1-04344D3B8A57"
+    }
+  ],
+  "name": "Components/Topbar/Desktop",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

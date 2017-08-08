@@ -1,0 +1,64 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "9DAD97B2-47F2-4570-B442-46B0817DF22C",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 40.00000000000003,
+    "width": 264,
+    "x": 0,
+    "y": 380
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "masterInfluenceEdgeMaxXPadding": 0,
+  "masterInfluenceEdgeMaxYPadding": 0,
+  "masterInfluenceEdgeMinXPadding": 0,
+  "masterInfluenceEdgeMinYPadding": 0,
+  "name": "Components/Navigation/📱Parent",
+  "nameIsFixed": true,
+  "overrides": {
+    "1095CB6A-8DC7-4832-A6EC-344696DBFBB3": {
+      "symbolID": ""
+    },
+    "494470DE-D78C-4F33-B637-A6BFA4B81BA4": "Reports",
+    "8DB9126F-4D47-49FF-BC54-2871410791DC": {
+      "symbolID": "38442809-550C-4B0A-868C-6196A63A8C2B"
+    },
+    "D786E73A-1D8F-4E50-BE07-60F6AE0EEE78": {
+      "BB2F9C1A-3DE4-4D05-B19C-769EF0F6A087": "Reports",
+      "CA784D55-6165-47F7-9396-B531A9BF8F72": "Reports"
+    }
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "6DA8974E-91DE-40BA-813E-5CCD3F923F68",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

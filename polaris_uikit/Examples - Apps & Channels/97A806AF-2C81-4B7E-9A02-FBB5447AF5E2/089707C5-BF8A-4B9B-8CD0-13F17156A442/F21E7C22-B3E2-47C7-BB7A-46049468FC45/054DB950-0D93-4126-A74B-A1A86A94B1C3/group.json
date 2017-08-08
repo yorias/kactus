@@ -1,0 +1,79 @@
+{
+  "_class": "group",
+  "do_objectID": "054DB950-0D93-4126-A74B-A1A86A94B1C3",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 36,
+    "width": 704,
+    "x": 21,
+    "y": 44
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "C98A88C8-9CAF-41B8-BBD1-76139DD715F3"
+    },
+    {
+      "class": "group",
+      "id": "CAAA2427-BF43-498D-905A-B458F7E477C6"
+    },
+    {
+      "class": "group",
+      "id": "D9E86853-E4BF-4472-9ABB-D16C76039FD2"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "11F3C41D-E056-4E6B-ADEF-17280DFFDA08"
+    }
+  ],
+  "name": "text field / split buttons",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "borders": [
+      {
+        "_class": "border",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.592,
+          "green": 0.592,
+          "red": 0.592
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "position": 0,
+        "thickness": 1
+      }
+    ],
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

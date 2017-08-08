@@ -1,0 +1,65 @@
+{
+  "_class": "group",
+  "do_objectID": "7EEE38EB-799B-4340-BE52-789F2C140C8B",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 36,
+    "width": 280,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "25E55FB3-BD16-4DC4-A256-3DD032DD6521"
+    },
+    {
+      "class": "text",
+      "id": "DB813B81-AABB-4B63-98C6-1D298320E956"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "316AFC01-FCC5-4F87-9C8E-9132F9138788"
+    }
+  ],
+  "name": "Input",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    },
+    "com.invisionlabs.library": {
+      "original-layer": {
+        "originalID": "FDBCA5CE-3160-4A8D-A6E4-C98A5A0CFEAF",
+        "version": 1
+      }
+    }
+  }
+}

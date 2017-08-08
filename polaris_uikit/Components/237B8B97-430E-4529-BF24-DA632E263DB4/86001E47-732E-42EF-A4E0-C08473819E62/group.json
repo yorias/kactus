@@ -1,0 +1,67 @@
+{
+  "_class": "group",
+  "do_objectID": "86001E47-732E-42EF-A4E0-C08473819E62",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 119,
+    "width": 998,
+    "x": 36,
+    "y": 276
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "529A8C75-A658-4660-83A1-82A692DE7194"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "D332BFD8-6840-45A3-B3A1-CAC029DF521C"
+    },
+    {
+      "class": "text",
+      "id": "C406ABE6-0286-4EA2-970D-86369C309225"
+    },
+    {
+      "class": "group",
+      "id": "F57B8889-A77E-43BB-B8A3-8642149E1B1D"
+    },
+    {
+      "class": "group",
+      "id": "8DC2316F-7FFA-4734-B6BF-354EB22F9CA1"
+    }
+  ],
+  "name": "Banner - Success",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

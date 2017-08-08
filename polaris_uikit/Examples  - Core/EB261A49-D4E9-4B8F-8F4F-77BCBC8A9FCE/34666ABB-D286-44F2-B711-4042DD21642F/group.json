@@ -1,0 +1,63 @@
+{
+  "_class": "group",
+  "do_objectID": "34666ABB-D286-44F2-B711-4042DD21642F",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 105,
+    "width": 724,
+    "x": 289,
+    "y": 1049
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "B1EB2C82-DBB8-4AE7-98AA-589C00067FF9"
+    },
+    {
+      "class": "group",
+      "id": "F057D05A-7A25-4C01-8962-0DDE1614792F"
+    },
+    {
+      "class": "text",
+      "id": "0E3A48CC-E918-4634-A7E2-9D10BD06DE34"
+    },
+    {
+      "class": "bitmap",
+      "id": "AEE3064A-DAA2-481D-9C60-5EE0855F9D6C"
+    }
+  ],
+  "name": "Apple pay",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

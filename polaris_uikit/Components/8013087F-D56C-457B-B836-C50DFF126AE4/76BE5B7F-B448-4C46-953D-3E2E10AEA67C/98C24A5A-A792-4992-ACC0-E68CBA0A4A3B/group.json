@@ -1,0 +1,59 @@
+{
+  "_class": "group",
+  "do_objectID": "98C24A5A-A792-4992-ACC0-E68CBA0A4A3B",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 84,
+    "width": 281,
+    "x": 0,
+    "y": 228
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "9BD5A22C-5CD0-456C-BBC8-CCD58F7656F5"
+    },
+    {
+      "class": "text",
+      "id": "39646255-7617-46DC-B8D0-EE7049C04F0A"
+    },
+    {
+      "class": "text",
+      "id": "71C91764-45B8-4196-B96A-BB062BE65D5A"
+    }
+  ],
+  "name": "Select - Help text",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

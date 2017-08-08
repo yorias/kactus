@@ -1,0 +1,67 @@
+{
+  "_class": "group",
+  "do_objectID": "2DD36B20-601F-4924-8572-D4FF016EBBA1",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 92,
+    "width": 703,
+    "x": 36,
+    "y": 194
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "54081C44-448F-4289-B538-E78ED3DB260B"
+    },
+    {
+      "class": "group",
+      "id": "B3ACB009-CFA8-408A-848E-3DDE03B477B9"
+    },
+    {
+      "class": "text",
+      "id": "07CC2587-894D-4E35-9678-D3D73E2571D5"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "3878E05E-4641-4ACD-A4A6-5903B2092AF8"
+    },
+    {
+      "class": "text",
+      "id": "3CE29AF5-1953-4A96-BED3-EA596AA0230B"
+    }
+  ],
+  "name": "Disconnect",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

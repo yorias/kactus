@@ -1,0 +1,71 @@
+{
+  "_class": "group",
+  "do_objectID": "0C1D038F-9D8F-4240-BEDD-CE712B10FAD9",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 143,
+    "width": 998,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "47FB4B87-3499-4510-B482-AB720AE9C8D4"
+    },
+    {
+      "class": "group",
+      "id": "8CF2DF00-7078-42F6-9A7D-85A56F6C0E55"
+    },
+    {
+      "class": "text",
+      "id": "5B4E42DF-DE2E-432E-8F63-69C25CFA60EE"
+    },
+    {
+      "class": "text",
+      "id": "AADE4FAF-DDF7-41FD-8232-4F9294CE72D5"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "23673EEE-253E-4FAF-B724-601D28B3C38E"
+    },
+    {
+      "class": "group",
+      "id": "493CB441-3402-4517-828C-AFF71CA173BD"
+    }
+  ],
+  "name": "Banner - title, content, button",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

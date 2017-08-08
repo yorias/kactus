@@ -1,0 +1,71 @@
+{
+  "_class": "group",
+  "do_objectID": "579B4CC1-5AAE-4BF3-A448-C1AEBE4C7902",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 299,
+    "width": 321,
+    "x": 96,
+    "y": 280
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "3427FC82-537A-419F-8FFE-BECBE6212C62"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "1C2F2CAC-B18F-4879-9324-56750084F853"
+    },
+    {
+      "class": "text",
+      "id": "4E4BAC75-35C9-478A-9D2E-1DCA13523691"
+    },
+    {
+      "class": "text",
+      "id": "310DA810-165E-484F-B703-02BE251E2765"
+    },
+    {
+      "class": "text",
+      "id": "EBE91840-3D13-4E7C-B38D-68C500FB1E6A"
+    },
+    {
+      "class": "group",
+      "id": "094D7EE5-49FF-49F9-9CF5-B7A3C29BE335"
+    }
+  ],
+  "name": "Card - segment",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

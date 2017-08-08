@@ -1,0 +1,67 @@
+{
+  "_class": "group",
+  "do_objectID": "E2C40F32-7C19-479C-9807-0F6AE7E5CFBF",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 143,
+    "width": 998,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "8A0E86FB-78F2-4FF3-B289-A8C276721ACD"
+    },
+    {
+      "class": "group",
+      "id": "2E03F9F4-3902-4762-83C8-6A262DEDC4CC"
+    },
+    {
+      "class": "text",
+      "id": "58F48A6B-CF2C-4F07-85E1-4587342471F6"
+    },
+    {
+      "class": "text",
+      "id": "E282A137-54D2-4CE9-93CD-B55F67638B77"
+    },
+    {
+      "class": "group",
+      "id": "F404D6EA-17BE-41DF-8817-51BA04A9F3A3"
+    }
+  ],
+  "name": "Banner - Critical",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

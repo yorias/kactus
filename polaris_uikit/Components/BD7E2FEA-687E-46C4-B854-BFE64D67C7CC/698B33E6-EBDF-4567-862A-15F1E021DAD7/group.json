@@ -1,0 +1,71 @@
+{
+  "_class": "group",
+  "do_objectID": "698B33E6-EBDF-4567-862A-15F1E021DAD7",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 257,
+    "width": 621,
+    "x": 35,
+    "y": 372
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "E9E3234B-47E3-474E-BF32-72AD4D651642"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "EDF5F91F-B5C5-47D4-B132-4AC1837F885A"
+    },
+    {
+      "class": "text",
+      "id": "3FDC2030-6186-4ED5-99A6-E4082B5A2C1E"
+    },
+    {
+      "class": "group",
+      "id": "C29ADABB-F77A-400A-8831-E6283CE3AC7E"
+    },
+    {
+      "class": "text",
+      "id": "62F7662A-39AA-4799-9E55-CDEC97425ECE"
+    },
+    {
+      "class": "text",
+      "id": "52FE6E33-C8B8-4598-9B4F-61A835D8B194"
+    }
+  ],
+  "name": "Image upload - hover",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

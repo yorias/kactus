@@ -1,0 +1,61 @@
+{
+  "_class": "group",
+  "do_objectID": "7AD3DB51-2C69-4BE2-8AB8-4D33D2C3964C",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 36,
+    "width": 75,
+    "x": 196,
+    "y": 244
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "38EAA9A8-4C06-4ACC-ABBD-CAF026201399"
+    },
+    {
+      "class": "text",
+      "id": "A52823E0-EFD5-4965-A11F-73E5870E36AE"
+    }
+  ],
+  "name": "Button primary - focus",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    },
+    "com.invisionlabs.library": {
+      "original-layer": {
+        "originalID": "984EDFE5-B42B-4AF7-8DC7-86FA1EA1501D",
+        "version": 1
+      }
+    }
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "_class": "group",
+  "do_objectID": "0C4171C3-7FA8-419E-B8F3-7E66D23F02A8",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 15,
+    "width": 772,
+    "x": 73,
+    "y": 432
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "text",
+      "id": "9D92C792-D97E-44EF-B97E-5C53606B8D9C"
+    },
+    {
+      "class": "text",
+      "id": "FC706314-6AF1-479D-B6E5-C73512E38449"
+    },
+    {
+      "class": "text",
+      "id": "F7144226-9719-44FB-B179-2B32A02E0DDD"
+    },
+    {
+      "class": "text",
+      "id": "E195072A-7A05-440A-AB77-BF757777926D"
+    },
+    {
+      "class": "text",
+      "id": "8C20C42F-B3AA-4BC4-A057-6FC2E3E84744"
+    },
+    {
+      "class": "text",
+      "id": "59730099-417A-4D6D-9A1A-91248DF8E7CA"
+    }
+  ],
+  "name": "xAxis ticks labels",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

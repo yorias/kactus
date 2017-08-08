@@ -1,0 +1,67 @@
+{
+  "_class": "group",
+  "do_objectID": "4318BEFE-9B9A-4E38-B5A9-7F740BD409FA",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 112,
+    "width": 260,
+    "x": 20,
+    "y": 131
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "text",
+      "id": "1A7503DE-549B-4514-AB15-221CF901FD1E"
+    },
+    {
+      "class": "text",
+      "id": "D60B0B7A-A786-4DA4-A1B9-423D86B1F6C9"
+    },
+    {
+      "class": "text",
+      "id": "72F09BA5-D4E6-4A33-96D7-72AD7526732A"
+    },
+    {
+      "class": "group",
+      "id": "F11C86F4-8FCC-48DB-A1A0-05BFE6345181"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "A7018BFD-1A17-4815-A3CE-64374E6525C2"
+    }
+  ],
+  "name": "Risk Indicators",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

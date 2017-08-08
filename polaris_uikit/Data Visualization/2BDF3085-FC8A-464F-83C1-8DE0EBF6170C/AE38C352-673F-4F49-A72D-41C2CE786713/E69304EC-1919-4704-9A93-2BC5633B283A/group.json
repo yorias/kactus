@@ -1,0 +1,75 @@
+{
+  "_class": "group",
+  "do_objectID": "E69304EC-1919-4704-9A93-2BC5633B283A",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 200,
+    "width": 158,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "2D831B82-5842-4077-ACFF-A38D78BFAC87"
+    },
+    {
+      "class": "group",
+      "id": "1AF91054-E11E-496A-8B31-931806F7B2FC"
+    },
+    {
+      "class": "group",
+      "id": "19E87C37-57D2-49BD-942A-DBEB2D6A7B79"
+    },
+    {
+      "class": "group",
+      "id": "0F6F7B07-75AD-4C8E-BA72-34B499E9967B"
+    },
+    {
+      "class": "group",
+      "id": "2FC14DFD-6A70-4A92-B1F9-FEC85037DD91"
+    },
+    {
+      "class": "group",
+      "id": "81238D07-56E9-4C8F-9928-971754A19412"
+    }
+  ],
+  "name": "Color Group",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "align": 0,
+        "spacing": 4,
+        "type": 0
+      },
+      "kViewTypeKey": "ADModelStackView"
+    }
+  }
+}

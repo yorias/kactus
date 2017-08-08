@@ -1,0 +1,73 @@
+{
+  "_class": "group",
+  "do_objectID": "495CBC3A-1870-4B4C-A40A-EC76A7220462",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 36,
+    "width": 177,
+    "x": 550,
+    "y": 24
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "9180B5D6-F00D-49BC-A7EC-B35E47A5E4DC"
+    },
+    {
+      "class": "group",
+      "id": "B2E9C3C3-E6E6-4CA8-9140-D6033BE297FC"
+    },
+    {
+      "class": "group",
+      "id": "31CF36B6-CFB9-4689-ADC0-24CAC2F53969"
+    }
+  ],
+  "name": "Shortcut actions",
+  "nameIsFixed": true,
+  "resizingConstraint": 44,
+  "resizingType": 1,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "constraints": {
+          "automatic": 1,
+          "modelID": "viewConstraints_f24c5aa6-34e7-4038-8282-c2dcc6fd85ab",
+          "model_class": "ADModelViewConstraints",
+          "model_version": 0.1,
+          "right": {
+            "constant": 17,
+            "enabled": 1,
+            "modelID": "constraint_86c6abd1-28dc-468f-bcae-87596ec3ed1e",
+            "model_class": "ADModelConstraint",
+            "model_version": 0.1,
+            "multiplier": 0
+          }
+        }
+      }
+    }
+  }
+}

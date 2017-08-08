@@ -1,0 +1,71 @@
+{
+  "_class": "group",
+  "do_objectID": "AA8CE420-B08F-4FDC-93D5-E69446F0D891",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 553,
+    "width": 320,
+    "x": 0,
+    "y": 1284
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "16E31AB1-0E0E-4165-B96A-E84B8C72929E"
+    },
+    {
+      "class": "group",
+      "id": "60CAC75E-3100-4428-ABE9-17ED0AA91B9F"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "D24CDBC2-FB31-4439-9B01-0B459DC1E76E"
+    },
+    {
+      "class": "group",
+      "id": "4BBADEB9-4A62-4A8A-B17E-5727D68C701C"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "A2BD6F01-21AA-4F6A-9595-A1387F48E424"
+    },
+    {
+      "class": "group",
+      "id": "5E12C890-D58E-4032-B51F-6DE306F6AC05"
+    }
+  ],
+  "name": "Customer card",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

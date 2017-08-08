@@ -1,0 +1,63 @@
+{
+  "_class": "group",
+  "do_objectID": "19FE0A53-D152-4138-A1B9-C69F03B64A47",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 140,
+    "width": 724,
+    "x": 27,
+    "y": 889
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "D6FDA9DF-C02A-4D30-83CC-C099EDCCB50A"
+    },
+    {
+      "class": "group",
+      "id": "D86359B7-2141-47A3-8D22-D1A070EF819E"
+    },
+    {
+      "class": "text",
+      "id": "2DC96F2E-A2EA-4018-9CE1-0CCB5E21EC2E"
+    },
+    {
+      "class": "text",
+      "id": "0AF5C282-D078-4889-BB41-5D34DC2F3AFE"
+    }
+  ],
+  "name": "Update pos app",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "FBD6A13E-C565-4BB4-A785-9D8E600D6F7F",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 32,
+    "width": 206,
+    "x": 0,
+    "y": 0
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "masterInfluenceEdgeMaxXPadding": 0,
+  "masterInfluenceEdgeMaxYPadding": 0,
+  "masterInfluenceEdgeMinXPadding": 0,
+  "masterInfluenceEdgeMinYPadding": 0,
+  "name": "⌘/Tooltip/Top left",
+  "nameIsFixed": true,
+  "overrides": {
+    "41A41678-C776-46BA-8255-7B9FB73A4CFC": "Tooltip is where this text goes in",
+    "AC9DD68F-FA71-4650-A9BE-847615179554": {
+      "symbolID": "D1FD2FFC-8613-416D-B3A0-30C04B3D2C67"
+    },
+    "D5C472E8-39FC-460A-A72E-DAEE4D7FED89": {
+      "symbolID": "B89CB826-3590-43F2-9EEE-3547405A751C"
+    }
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "0BC52258-0084-456B-B34F-8CADAF189F61",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

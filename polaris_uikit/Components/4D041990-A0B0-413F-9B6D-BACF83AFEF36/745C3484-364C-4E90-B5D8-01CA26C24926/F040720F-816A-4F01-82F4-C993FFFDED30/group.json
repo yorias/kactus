@@ -1,0 +1,61 @@
+{
+  "_class": "group",
+  "do_objectID": "F040720F-816A-4F01-82F4-C993FFFDED30",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 36,
+    "width": 74,
+    "x": 0,
+    "y": 120
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "9A11AB67-FC33-4DEA-9687-7EB15ABE4250"
+    },
+    {
+      "class": "text",
+      "id": "C9FAC6BF-70F1-4726-A9F7-8BAC18038D1C"
+    }
+  ],
+  "name": "Button destructive - active",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    },
+    "com.invisionlabs.library": {
+      "original-layer": {
+        "originalID": "6C0AD06F-19A5-4A7F-A104-449CFB16F534",
+        "version": 1
+      }
+    }
+  }
+}

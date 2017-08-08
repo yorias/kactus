@@ -1,0 +1,59 @@
+{
+  "_class": "group",
+  "do_objectID": "F4BDC1B1-A34F-4D89-867C-37E11B59A7D6",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 156,
+    "width": 320,
+    "x": 4,
+    "y": 268
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "0EF595AB-B982-4990-8AFE-AE9D2C64F74B"
+    },
+    {
+      "class": "text",
+      "id": "D1C58D4B-CACF-48AB-A388-25C4A749D421"
+    },
+    {
+      "class": "group",
+      "id": "0DC96086-9150-4167-8DF4-4120887F777A"
+    }
+  ],
+  "name": "Notifications / B card",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

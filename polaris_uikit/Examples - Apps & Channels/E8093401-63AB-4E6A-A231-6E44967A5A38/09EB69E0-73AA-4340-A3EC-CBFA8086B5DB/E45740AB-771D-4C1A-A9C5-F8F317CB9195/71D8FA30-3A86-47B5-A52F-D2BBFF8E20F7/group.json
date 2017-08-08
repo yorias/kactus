@@ -1,0 +1,75 @@
+{
+  "_class": "group",
+  "do_objectID": "71D8FA30-3A86-47B5-A52F-D2BBFF8E20F7",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 20,
+    "width": 77,
+    "x": 260,
+    "y": 12
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": false,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "83E4B6F8-F45C-44DE-9633-B210360772E5"
+    },
+    {
+      "class": "text",
+      "id": "B70B0E57-6C74-417F-B2FF-4BBDFCF8D160"
+    }
+  ],
+  "name": "badge",
+  "nameIsFixed": true,
+  "resizingConstraint": 9,
+  "resizingType": 1,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "constraints": {
+          "automatic": 1,
+          "left": {
+            "constant": 260,
+            "enabled": 1,
+            "modelID": "constraint_19c452b7-4b04-4d4e-a5e6-8b5617034e73",
+            "model_class": "ADModelConstraint",
+            "model_version": 0.1,
+            "multiplier": 0
+          },
+          "modelID": "viewConstraints_dd004f5b-88cf-49f2-a386-e4b53eb1ee3f",
+          "model_class": "ADModelViewConstraints",
+          "model_version": 0.1
+        }
+      }
+    },
+    "com.invisionlabs.library": {
+      "original-layer": {
+        "originalID": "22F3C04C-0367-4627-A06C-22C8F9387C74",
+        "version": 1
+      }
+    }
+  }
+}

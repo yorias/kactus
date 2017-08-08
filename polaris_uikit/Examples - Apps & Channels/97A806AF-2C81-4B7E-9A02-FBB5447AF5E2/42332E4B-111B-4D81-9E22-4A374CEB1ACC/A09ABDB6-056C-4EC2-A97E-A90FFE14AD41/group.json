@@ -1,0 +1,59 @@
+{
+  "_class": "group",
+  "do_objectID": "A09ABDB6-056C-4EC2-A97E-A90FFE14AD41",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 80,
+    "width": 744,
+    "x": 4,
+    "y": 72
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "F887FA11-41CE-4A83-A28C-01CBD51E1C7B"
+    },
+    {
+      "class": "text",
+      "id": "A5703504-9965-4E49-B022-F888ED8EDA84"
+    },
+    {
+      "class": "group",
+      "id": "703AB42B-675F-439F-A2E5-58DA5711DE10"
+    }
+  ],
+  "name": "Notifications / A card",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

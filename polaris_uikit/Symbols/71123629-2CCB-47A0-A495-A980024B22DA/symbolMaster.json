@@ -1,0 +1,105 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "green": 1,
+    "red": 1
+  },
+  "changeIdentifier": 4,
+  "do_objectID": "71123629-2CCB-47A0-A495-A980024B22DA",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 45,
+    "width": 700,
+    "x": 11730,
+    "y": 0
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "8882E3B8-A8F5-48CD-8259-3522AD68618D"
+    },
+    {
+      "class": "text",
+      "id": "C125ACE2-B600-47DF-B8C1-D487F61ECFAD"
+    },
+    {
+      "class": "group",
+      "id": "AF3D2D8C-3880-4BE6-AD10-C9476B47F632"
+    },
+    {
+      "class": "group",
+      "id": "8C0BB0CE-38FE-428F-9864-B00BBA9BE952"
+    },
+    {
+      "class": "text",
+      "id": "1977662F-2A90-4F4C-B131-2C25E60A345E"
+    },
+    {
+      "class": "text",
+      "id": "25132AD7-EA93-480B-A6D7-2E1C41B52993"
+    },
+    {
+      "class": "text",
+      "id": "7D3CC98F-6E11-434F-906F-DD5DF4C4D087"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "705D3A12-1D9A-4BEB-9549-AB1CBF8A6523"
+    }
+  ],
+  "name": "Components/Table/📱Order row",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "2D0A82DC-ACAE-4DAF-A679-5BD5E515786C",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}

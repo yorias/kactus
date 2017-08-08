@@ -1,0 +1,67 @@
+{
+  "_class": "group",
+  "do_objectID": "E69315CB-8F79-43CD-80A3-DEC21073A4FE",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 137,
+    "width": 320,
+    "x": 0,
+    "y": 100
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "2549E87D-C622-40D6-890E-452016E71A31"
+    },
+    {
+      "class": "text",
+      "id": "7E8B4015-640D-4F9A-9D1D-CF390EE67B9D"
+    },
+    {
+      "class": "text",
+      "id": "61D899CF-8C36-406E-9611-0A0EFBC3194F"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "A6FFD73B-6858-44E8-B9E6-ABEB415250E4"
+    },
+    {
+      "class": "group",
+      "id": "364CB167-A2B5-4DE9-A4E6-493E78EFF93A"
+    }
+  ],
+  "name": "Account / info card",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

@@ -1,0 +1,81 @@
+{
+  "_class": "group",
+  "do_objectID": "5A1F2102-6089-4D66-982A-6AB3E4900E43",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 279,
+    "width": 205,
+    "x": 36,
+    "y": 285
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "0026CCB1-30C9-4F66-A59D-41A1394A45EA"
+    },
+    {
+      "class": "group",
+      "id": "A14E13C7-F3C6-42E8-8D82-FC5D6F435AB0"
+    },
+    {
+      "class": "group",
+      "id": "A06DD204-4F2A-4543-84B2-6F4312EBDD4B"
+    },
+    {
+      "class": "group",
+      "id": "DFEDC4D4-25A5-43E4-B780-4293ED24CE39"
+    },
+    {
+      "class": "group",
+      "id": "8E1C8D61-CCD0-472B-8D9D-AE71FEF87802"
+    },
+    {
+      "class": "group",
+      "id": "D4A3A4EE-1D15-4290-AE41-A87D10BC2447"
+    },
+    {
+      "class": "group",
+      "id": "28534559-C171-49E6-88BA-3EFE85FC1685"
+    }
+  ],
+  "name": "Popover - Sectioned",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    },
+    "com.invisionlabs.library": {
+      "original-layer": {
+        "originalID": "5E193245-C39C-44C7-9257-74554645E5D8",
+        "version": 1
+      }
+    }
+  }
+}

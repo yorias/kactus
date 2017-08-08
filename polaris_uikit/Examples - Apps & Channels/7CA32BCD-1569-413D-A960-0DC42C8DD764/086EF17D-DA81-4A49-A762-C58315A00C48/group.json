@@ -1,0 +1,71 @@
+{
+  "_class": "group",
+  "do_objectID": "086EF17D-DA81-4A49-A762-C58315A00C48",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 89,
+    "width": 745,
+    "x": 15,
+    "y": 80
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "CD443696-7201-48C4-B64F-E03E8DB763E5"
+    },
+    {
+      "class": "group",
+      "id": "B1EEACD9-922B-40FE-9093-F259B1A2EF71"
+    },
+    {
+      "class": "group",
+      "id": "0242E4B1-F5AF-41C8-AE9C-F08B6F16596D"
+    },
+    {
+      "class": "text",
+      "id": "F987B3BF-FDAE-423F-A27A-5AF218905E8F"
+    },
+    {
+      "class": "group",
+      "id": "11578511-AD02-430D-96F3-BF8E9A8D4564"
+    },
+    {
+      "class": "group",
+      "id": "878E5376-3C80-48F8-919C-BC8B7587B314"
+    }
+  ],
+  "name": " Titlebar / App / Index",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}
